@@ -7,7 +7,7 @@ machine learning techniques like vectorization and cosine similarity.
 It is trained on the TMDB 5000 Movie Dataset from Kaggle.
 
 ## 🚀 Live Demo
-[Click here to view the live app](https://your-app-name.herokuapp.com)
+[Click here to view the live app](https://movie-magic-krupa.streamlit.app).
 
 ## 🧠 How It Works
 1. Extracts features from movies (genres, keywords, cast, crew, overview)
